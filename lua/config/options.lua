@@ -5,3 +5,13 @@
 -- TABS CONFIG
 vim.opt.tabstop = 4 -- Número de espaços que uma tab representa
 vim.opt.shiftwidth = 4 -- Número de espaços usados ao usar >> ou <<
+
+-- LISTCHARS
+vim.opt.list = true
+vim.opt.listchars = {
+  tab = ". ",
+  trail = ",",
+  extends = "›",
+  precedes = "‹",
+  nbsp = "␣",
+}

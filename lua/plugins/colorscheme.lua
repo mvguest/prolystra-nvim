@@ -78,16 +78,32 @@ return {
   -- add kanagawa
   { "rebelot/kanagawa.nvim" },
 
+  -- add kanagawa-paper
+  { "thesimonho/kanagawa-paper.nvim" },
+
   -- add poimandres
   { "olivercederborg/poimandres.nvim" },
 
   -- add no-clown-fiesta
   { "aktersnurra/no-clown-fiesta.nvim" },
+
+  -- add oldword
+  { "dgox16/oldworld.nvim" },
+
+  -- add modus
+  { "miikanissi/modus-themes.nvim" },
+
+  -- add posterpole
+  { "ilof2/posterpole.nvim" },
+
+  -- add vesper
+  { "datsfilipe/vesper.nvim" },
+
   -- define colors_name
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "kanagawa-dragon",
+      colorscheme = "oldworld",
     },
   },
 }
