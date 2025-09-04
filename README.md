@@ -1,4 +1,3 @@
-# 💤 LazyVim
+# Prolystra NVIM
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+A custom configuration to lazyvim with functionable utils to programming and productivity
