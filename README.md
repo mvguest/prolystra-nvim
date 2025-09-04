@@ -5,7 +5,7 @@ The name comes from Prolystra lithographica, one of the earliest fossilized Jura
 
 Beyond the etymology, the name reflects the project’s core idea: just as cicadas undergo metamorphosis, Prolystra is designed to be **highly adaptable** and **easily customizable**, allowing each user to shape the configuration around their own workflow.
 
-##Visual
+## Visual
 
 <img src="https://i.imgur.com/6zdIx80.png" alt="Menu" width=700>
 
