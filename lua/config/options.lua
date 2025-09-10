@@ -9,8 +9,8 @@ vim.opt.shiftwidth = 4 -- Número de espaços usados ao usar >> ou <<
 -- LISTCHARS
 vim.opt.list = true
 vim.opt.listchars = {
-  tab = ". ",
-  trail = ",",
+  tab = ", ",
+  trail = ".",
   extends = "›",
   precedes = "‹",
   nbsp = "␣",
